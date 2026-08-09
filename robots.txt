@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeonnam-nightlife-note.nonhyeonnight.xyz/sitemap.xml
+Sitemap: https://yeonnam-nightlife-note.nonhyeonnight.xyz/sitemap-pages.xml
